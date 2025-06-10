@@ -1,5 +1,10 @@
-## Hi there 👋
-
+# __      __       .__                             ._.
+#/  \    /  \ ____ |  |   ____  ____   _____   ____| |
+#\   \/\/   // __ \|  | _/ ___\/  _ \ /     \_/ __ \ |
+# \        /\  ___/|  |_\  \__(  <_> )  Y Y  \  ___/\|
+#  \__/\  /  \___  >____/\___  >____/|__|_|  /\___  >_
+#       \/       \/          \/            \/     \/\/
+                                                                              
 <!--
 **dguer042/dguer042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
